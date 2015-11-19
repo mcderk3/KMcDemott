@@ -1,4 +1,4 @@
-//3D PRINT THIS AS STL
+//3D PRINT THIS AS STL, then smash.
 
 module things(num, space) {
   for (i = [0 : num-1])
